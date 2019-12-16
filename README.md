@@ -1,2 +1,0 @@
-# ContactsCards
-Created with CodeSandbox
